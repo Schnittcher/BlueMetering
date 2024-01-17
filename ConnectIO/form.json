@@ -1,0 +1,11 @@
+{
+    "elements": [
+        {
+            "type": "PasswordTextBox",
+            "name": "apiKey",
+            "caption": "API Key"
+        }
+    ],
+    "actions": [],
+    "status": []
+}

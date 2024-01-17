@@ -1,0 +1,16 @@
+{
+    "id": "{52C23D6C-635D-701B-F987-F5A774F87616}",
+    "name": "MeteringController",
+    "type": 3,
+    "vendor": "BlueMetering GmbH",
+    "aliases": [],
+    "parentRequirements": [
+        "{5CD6DDD2-9D13-14D5-B9E7-AEC3FC07E3ED}"
+    ],
+    "childRequirements": [],
+    "implemented": [
+        "{37A96E77-455A-3986-E195-5420D11867AD}"
+    ],
+    "prefix": "BMC",
+    "url": ""
+}

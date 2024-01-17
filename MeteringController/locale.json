@@ -1,0 +1,12 @@
+{
+    "translations": {
+        "de": {
+            "Active": "Aktiv",
+            "Metering location ID": "Messstellen-ID",
+            "Minutes": "Minuten",
+            "Consumption last 15 minutes": "Verbrauch in den letzten 15 Minuten",
+            "Meter reading purchase": "Zählerstand Bezug",
+            "No new values.": "Keine neuen Werte vorhanden."
+        }
+    }
+}

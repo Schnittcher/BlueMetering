@@ -1,0 +1,21 @@
+{
+    "elements": [
+        {
+            "type": "CheckBox",
+            "name": "Active",
+            "caption": "Active"
+        },
+        {
+            "type": "ValidationTextBox",
+            "name": "MeloID",
+            "caption": "Metering location ID"
+        },
+        {
+            "name": "UpdateInterval",
+            "type": "IntervalBox",
+            "caption": "Minutes"
+          }
+    ],
+    "actions": [],
+    "status": []
+}

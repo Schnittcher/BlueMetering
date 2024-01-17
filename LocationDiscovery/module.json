@@ -1,0 +1,16 @@
+{
+    "id": "{5616C957-2C6C-F9E3-E5F6-015D943A9072}",
+    "name": "LocationDiscovery",
+    "type": 5,
+    "vendor": "BlueMetering GmbH",
+    "aliases": [],
+    "parentRequirements": [
+        "{5CD6DDD2-9D13-14D5-B9E7-AEC3FC07E3ED}"
+    ],
+    "childRequirements": [],
+    "implemented": [
+        "{37A96E77-455A-3986-E195-5420D11867AD}"
+    ],
+    "prefix": "BMC",
+    "url": ""
+}

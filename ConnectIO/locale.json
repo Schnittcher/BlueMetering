@@ -1,0 +1,8 @@
+{
+    "translations": {
+        "de": {
+            "You need to save the API key in the configuration.": "Bitte speichern Sie den Api-Schlüssel in der Konfiguration.",
+            "No endpoint was specified.": "Es wurde kein Endpoint angegeben."
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "id": "{6D19D525-1EDF-EA2E-F61A-0BBA162F1DAE}",
+    "name": "ConnectIO",
+    "type": 1,
+    "vendor": "BlueMetering GmbH",
+    "aliases": [],
+    "parentRequirements": [],
+    "childRequirements": [
+        "{37A96E77-455A-3986-E195-5420D11867AD}"
+    ],
+    "implemented": [
+        "{5CD6DDD2-9D13-14D5-B9E7-AEC3FC07E3ED}"
+    ],
+    "prefix": "BMC",
+    "url": ""
+}
